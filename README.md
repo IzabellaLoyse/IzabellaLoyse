@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://github.com/IzabellaLoyse/IzabellaLoyse/blob/master/IL.png?raw=true"height="300">
+<img src="https://github.com/IzabellaLoyse/IzabellaLoyse/blob/master/IL.png?raw=true"height="350">
 </h1> 
 
 
@@ -19,12 +19,12 @@
 
 • 📌 Technologies of my everyday life / Tecnologias da minha vida cotidiana 
 <p align="left">
-<img src="ASSETS/html5-original-wordmark.svg" alt="HTML" width="50" height="50">
-<img src="ASSETS/css3-original-wordmark.svg" alt="CSS" width="50" height="50">
-<img src="ASSETS/javascript-original.svg" alt="JavaScript" width="40" height="40">
-<img src="ASSETS/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40">
-<img src="ASSETS/sass-original.svg" alt="Sass" width="40" height="40">
-<img src="ASSETS/git-original.svg" alt="Git" width="40" height="40">
+<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/html.svg" alt="HTML" width="50" height="50">
+<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/css.svg" alt="CSS" width="50" height="50">
+<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/js.svg" alt="JavaScript" width="40" height="40">
+<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/bootstrap.svg" alt="Bootstrap" width="40" height="40">
+<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/sass.svg" alt="Sass" width="40" height="40">
+<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/git.svg" alt="Git" width="40" height="40">
 
 </p>
 
