@@ -1,10 +1,8 @@
 
-![Logo](./IL.png)
-
 <h1 align="center">
-<img src="./IL.png" 
-height="300">
+<img src="https://github.com/IzabellaLoyse/IzabellaLoyse/blob/master/IL.png?raw=true"height="300">
 </h1> 
+
 
 
 <h1 align="center">Hi,friend 🤩, I'm Izabella Loyse / Oi,amigo(a) 🤩, Eu sou Izabella Loyse</h1>
