@@ -7,7 +7,11 @@
 
 <h1 align="center">Hi,friend 🤩, I'm Izabella Loyse / Oi,amigo(a) 🤩, Eu sou Izabella Loyse</h1>
 
-<h3 align="center"> 👩🏼‍💻A Padawan Web Developer  training to become a programming Jedi !/ 👩🏼‍💻Uma Padawan Desenvolvedora Web treinando para se tornar um Jedi da programação !</h3>
+<h3 align="center"> 👩🏼‍💻 A Padawan Web Developer  training to become a programming Jedi !/ 👩🏼‍💻Uma Padawan Desenvolvedora Web treinando para se tornar um Jedi da programação !</h3>
+
+<h3> 💻 • Estudante de Sistemas de informação a noite e desenvolvedora / designer durante o dia, mas movida a chocolates e cafeína. Sempre fui apaixonada por tecnologia desde a infância, então sabia qual carreira deveria seguir.
+Conhecimento e inovação são dois valores que sempre carrego em minha bagagem.• /💻 • Student of Information Systems at night and developer / designer during the day, but moved by chocolates and caffeine. I've always been passionate about technology since childhood, so I knew which career I should pursue.
+Knowledge and innovation are two values that I always carry in my luggage. • </h3>
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Dev&message=IzabellaLoyse&color=13f3cb&style=for-the-badge&logo=github">
