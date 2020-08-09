@@ -9,7 +9,9 @@
 
 <h3 align="center"> 👩🏼‍💻 A Padawan Web Developer  training to become a programming Jedi !/ 👩🏼‍💻Uma Padawan Desenvolvedora Web treinando para se tornar um Jedi da programação !</h3>
 
-<h3>💻  Student of Information Systems at night and developer / designer during the day, but moved by chocolates and caffeine. I've always been passionate about technology since childhood, so I knew which career I should pursue.Knowledge and innovation are two values that I always carry in my luggage. <br>💻 Estudante de Sistemas de informação a noite e desenvolvedora / designer durante o dia, mas movida a chocolates e cafeína. Sempre fui apaixonada por tecnologia desde a infância, então sabia qual carreira deveria seguir.
+<h3>💻  Student of Information Systems at night and developer / designer during the day, but moved by chocolates and caffeine. I've always been passionate about technology since childhood, so I knew which career I should pursue.Knowledge and innovation are two values that I always carry in my luggage. <br>
+  <br>
+ 💻 Estudante de Sistemas de informação a noite e desenvolvedora / designer durante o dia, mas movida a chocolates e cafeína. Sempre fui apaixonada por tecnologia desde a infância, então sabia qual carreira deveria seguir.
 Conhecimento e inovação são dois valores que sempre carrego em minha bagagem.  </h3>
 
 <p align="center">
