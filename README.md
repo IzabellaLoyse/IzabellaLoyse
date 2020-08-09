@@ -1,10 +1,4 @@
 
-<h1 align="center">
-<img src="https://github.com/IzabellaLoyse/IzabellaLoyse/blob/master/IL.png?raw=true"height="350">
-</h1> 
-
-
-
 <h1 align="center">Hi,friend 🤩, I'm Izabella Loyse / Oi,amigo(a) 🤩, Eu sou Izabella Loyse</h1>
 
 <h3 align="center"> 👩🏼‍💻 A Padawan Web Developer  training to become a programming Jedi !/ 👩🏼‍💻Uma Padawan Desenvolvedora Web treinando para se tornar um Jedi da programação !</h3>
