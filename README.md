@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/static/v1?label=Dev&message=IzabellaLoyse&color=13f3cb&style=for-the-badge&logo=github">
 </p>
 
-- **Hi, my friend, 😸 . I'm Izabella Loyse**
+## **Hi, my friend, 😸 . I'm Izabella Loyse**
 
-- **Welcome to my profile** 🖖
+## **Welcome to my profile** 🖖
 
 > 👩🏼‍💻 I'm a young Padawan Web Developer, training every day to become a jedi.
 
@@ -16,17 +16,19 @@
 
 ## Technologies of my everyday life ;p
 
-<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/html.svg" alt="HTML" width="50" height="50">
+<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/html.svg" alt="HTML" width="50" height="50">
 
-<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/css.svg" alt="CSS" width="50" height="50">
+<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/css.svg" alt="CSS" width="50" height="50">
 
-<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/js.svg" alt="JavaScript" width="40" height="40">
+<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/js.svg" alt="JavaScript" width="40" height="40">
 
-<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/bootstrap.svg" alt="Bootstrap" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/bootstrap.svg" alt="Bootstrap" width="45" height="45">
 
-<img src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/sass.svg" alt="Sass" width="45" height="45">
+<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/sass.svg" alt="Sass" width="45" height="45">
 
+<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/3288d591c59e4fccd0b66c52fd587328b23675c8/gulp-plain.svg" alt="Gulp" width="45" height="45">
 
+<br>
 
 ## 📫 How to reach me 
 
