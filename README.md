@@ -39,6 +39,9 @@
 <a href="https://www.freecodecamp.org/izabellaloyse" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="Izabella Loyse" height="30" width="30" />
 </a>
 
+<a href="https://izabellaloyse.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Izabella Loyse" height="30" width="30" />
+</a>
+
 <a href="https://www.linkedin.com/in/izabella-loyse-candido/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Izabella Loyse" height="30" width="30" />
 </a>
 
