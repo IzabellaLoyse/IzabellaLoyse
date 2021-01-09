@@ -53,8 +53,8 @@
 <br>
 
 <a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true?theme=omni" alt="Izabella Loyse Commits"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true&theme=tokyonight" alt="Izabella Loyse Commits"/>
 </a>
 <a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact" alt="Izabella Loyse Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" />
 </a>
