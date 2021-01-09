@@ -36,14 +36,25 @@
 
 ## Places where you can find me
 
+
 <a href="https://www.linkedin.com/in/izabella-loyse-candido/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Izabella Loyse" height="30" width="30" />
 </a>
+
 
 <a href="https://www.freecodecamp.org/izabellaloyse" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="Izabella Loyse" height="30" width="30" />
 </a>
 
-<a href="https://instagram.com/izaloyse" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izaloyse" height="30" width="30" /></a>
+<a href="https://izabellaloyse.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Izabella Loyse" height="30" width="30" />
+</a>
+
+
+<a href="https://instagram.com/izaloyse" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izaloyse" height="30" width="30" /></a> <br>
 
 <br>
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&show_icons=true" alt="IzabellaLoyse" /> </p>
+<a href="https://github.com/IzabellaLoyse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true?theme=omni" alt="Izabella Loyse Commits"/>
+</a>
+<a href="https://github.com/IzabellaLoyse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact" alt="Izabella Loyse Languages" />
+</a>
