@@ -1,9 +1,5 @@
 # About me ;)
 
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=Dev&message=IzabellaLoyse&color=13f3cb&style=for-the-badge&logo=github">
-</p>
-
 ## **Hi, my friend, 😸 . I'm Izabella Loyse**
 
 ## **Welcome to my profile** 🖖
