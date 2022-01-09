@@ -46,11 +46,14 @@
 
 <a href="https://instagram.com/izaloyse" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izaloyse" height="30" width="30" /></a> <br>
 
-<br>
+</br>
+
+<a href="https://github.com/IzabellaLoyse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" />
+</a>
+
+</br>
 
 <a href="https://github.com/IzabellaLoyse">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true&theme=tokyonight" alt="Izabella Loyse Commits"/>
-</a>
-<a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" />
 </a>
