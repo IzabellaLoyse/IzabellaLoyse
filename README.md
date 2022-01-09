@@ -1,59 +1,42 @@
-# About me ;)
+# About me 🪄
 
-## **Hi, my friend, 😸 . I'm Izabella Loyse**
+### **Hi, my friend, 😸 . I'm Izabella Loyse**
 
-## **Welcome to my profile** 🖖
+### **Welcome to my profile** 🖖
 
-- 👩🏼‍💻 I'm a young Padawan Web Developer, training every day to become a jedi.
+- I'm a young Padawan Web Developer, training every day to become a jedi.
 
-- 💻 I'm an Information Systems Student, web developer, designer and passionate about chocolates...
+- I'm a Front-end Developer
 
-## Technologies of my everyday life ;p
+## Technologies of my everyday life 👩🏻‍💻
 
-<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/html.svg" alt="HTML" width="50" height="50">
-
-<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/css.svg" alt="CSS" width="50" height="50">
-
-<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/js.svg" alt="JavaScript" width="40" height="40">
-
-<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/bootstrap.svg" alt="Bootstrap" width="45" height="45">
-
-<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/7a5a4c8801cc7712a7855a429ad45fafb11abbad/sass.svg" alt="Sass" width="45" height="45">
-
-<img align="left" src="https://raw.githubusercontent.com/IzabellaLoyse/IzabellaLoyse/3288d591c59e4fccd0b66c52fd587328b23675c8/gulp-plain.svg" alt="Gulp" width="45" height="45"> <br>
+![Badge HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Badge SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Badge BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Badge JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Badge Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Badge TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Badge React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Badge Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Badge Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Badge MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Badge PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
 
 ## 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/-izabellaloysedev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izabellaloysedev@gmail.com)](mailto:izabellaloysedev@gmail.com)
-
-
-
-## Places where you can find me
-
-
-<a href="https://www.linkedin.com/in/izabella-loyse-candido/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Izabella Loyse" height="30" width="30" />
-</a>
-
-
-<a href="https://www.freecodecamp.org/izabellaloyse" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="Izabella Loyse" height="30" width="30" />
-</a>
-
-<a href="https://izabellaloyse.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Izabella Loyse" height="30" width="30" />
-</a>
-
-
-<a href="https://instagram.com/izaloyse" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izaloyse" height="30" width="30" /></a> <br>
-
-</br>
-
-<a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" />
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izabellaloysedev@gmail.com)
+<a href="https://www.linkedin.com/in/izabella-loyse-candido/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </br>
 
 <a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true&theme=tokyonight" alt="Izabella Loyse Commits"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" width="400"/>
+</a>
+
+<a href="https://github.com/IzabellaLoyse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true&theme=tokyonight" alt="Izabella Loyse Commits" width="450"/>
 </a>
