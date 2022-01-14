@@ -1,6 +1,7 @@
 # About me 🪄
 
-### **Hi, my friend, 😸 . I'm Izabella Loyse**
+### **Hi, my friend**, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+### **I'm Izabella Loyse**
 
 ### **Welcome to my profile** 🖖
 
@@ -25,6 +26,10 @@
 
 <br>
 
+<a href="https://github.com/IzabellaLoyse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" width="400"/>
+</a>
+
 ## 📫 How to reach me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izabellaloysedev@gmail.com)
@@ -33,9 +38,8 @@
 
 </br>
 
-<a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" width="400"/>
-</a>
+
+## Stats ✨
 
 <a href="https://github.com/IzabellaLoyse">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true&theme=tokyonight" alt="Izabella Loyse Commits" width="450"/>
