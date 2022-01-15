@@ -26,9 +26,9 @@
 
 <br>
 
-<a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=tokyonight" alt="Izabella Loyse Languages" width="400"/>
-</a>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaLoyse&layout=compact&theme=dracula" alt="Izabella Loyse Languages" width="400"/>
+
 
 ## 📫 How to reach me
 
@@ -42,5 +42,5 @@
 ## Stats ✨
 
 <a href="https://github.com/IzabellaLoyse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true&theme=tokyonight" alt="Izabella Loyse Commits" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IzabellaLoyse&count_private=true&show_icons=true&theme=dracula" alt="Izabella Loyse Commits" width="450"/>
 </a>
