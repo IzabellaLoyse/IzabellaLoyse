@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I'm a Front-end Developer<br>🔭 I’m currently working on Ilegra<br>🌱 I’m currently learning NodeJs, React and MongoDB<br>💬 Ask me about anything ;)<br>⚡ Fun fact and that I am me
+👩🏻‍💻 I'm a Front-end Developer<br>🔭 I’m currently working on Thomson Reuters<br>🌱 I’m currently learning NodeJs, React and MongoDB<br>💬 Ask me about anything ;)<br>⚡ Fun fact and that I am me
 
 
 ## 🌐 Socials:
